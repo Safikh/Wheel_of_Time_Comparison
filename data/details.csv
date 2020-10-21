@@ -1,0 +1,15 @@
+book_number,title,author,num_chapters,prologue,epilogue,filename
+1,The Eye of the World,Robert Jordan,53,1,0,1.The Eye of the World.txt
+10,Crossroads of Twilight,Robert Jordan,30,1,1,10.Crossroads of Twilight.txt
+11,Knife of Dreams,Robert Jordan,37,1,1,11.Knife of Dreams.txt
+12,The Gathering Storm,Brandon Sanderson,50,1,1,12.The Gathering Storm.txt
+13,Towers of Midnight,Brandon Sanderson,57,1,1,13.Towers of Midnight.txt
+14,A Memory of Light,Brandon Sanderson,49,1,1,14.A Memory of Light.txt
+2,The Great Hunt,Robert Jordan,50,1,0,2.The Great Hunt.txt
+3,The Dragon Reborn,Robert Jordan,56,1,0,3.The Dragon Reborn.txt
+4,The Shadow Rising,Robert Jordan,58,0,0,4.The Shadow Rising.txt
+5,The Fires of Heaven,Robert Jordan,56,1,0,5.The Fires of Heaven.txt
+6,Lord of Chaos,Robert Jordan,55,1,1,6.Lord of Chaos.txt
+7,A Crown of Swords,Robert Jordan,41,1,0,7.A Crown of Swords.txt
+8,The Path of Daggers,Robert Jordan,31,1,0,8.The Path of Daggers.txt
+9,Winter's Heart,Robert Jordan,35,1,0,9.Winter's Heart.txt
